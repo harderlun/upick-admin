@@ -49,20 +49,31 @@
 
 ### 1. 克隆仓库 Clone Repo
 
-```bash
+
 git clone https://github.com/your-username/upick-admin.git
 cd upick-admin
-2. 安装依赖 Install Dependencies
 
-pnpm install
-# 或者 yarn install / npm install
-3. 本地运行 Run Dev Server
+---
+
+### 2. 安装依赖 Install Dependencies
+
+pnpm install # 或者 yarn install / npm install
+
+---
+
+### 3. 本地运行 Run Dev Server
 
 pnpm dev
-4. 打包构建 Build for Production
+
+---
+
+### 4. 打包构建 Build for Production
 
 pnpm build
-📁 项目结构 Project Structure
+
+---
+
+### 📁 项目结构 Project Structure
 
 ├── public/                  # 公共资源
 ├── src/
@@ -79,13 +90,15 @@ pnpm build
 ├── vite.config.ts           # Vite 配置
 ├── tsconfig.json            # TS 配置
 ├── README.md
+
+---
+
 🤝 项目适合人群 Who Should Use This
 学习 Vue3 + TypeScript 的开发者
 
 正在搭建企业后台项目的团队
 
 想了解中后台权限控制 / 表单设计 / 模块化架构的前端工程师
-
 
 👨‍💻 项目作者
 harderlun
