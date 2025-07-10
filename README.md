@@ -53,25 +53,17 @@
 git clone https://github.com/your-username/upick-admin.git
 cd upick-admin
 2. 安装依赖 Install Dependencies
-bash
-复制
-编辑
+
 pnpm install
 # 或者 yarn install / npm install
 3. 本地运行 Run Dev Server
-bash
-复制
-编辑
+
 pnpm dev
 4. 打包构建 Build for Production
-bash
-复制
-编辑
+
 pnpm build
 📁 项目结构 Project Structure
-bash
-复制
-编辑
+
 ├── public/                  # 公共资源
 ├── src/
 │   ├── api/                 # 接口封装
