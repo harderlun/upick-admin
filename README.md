@@ -9,39 +9,39 @@
 
 > 示例截图 / Preview Screenshots
 
-![Dashboard Screenshot](./docs/dashboard-preview.png)
+![Dashboard Screenshot](./docs/dashboard-preview.png)  
 ![Product Page Screenshot](./docs/product-page.png)
 
 ---
 
 ## 🔧 技术栈 Technology Stack
 
-| 技术       | 说明 / Description                   |
-|------------|---------------------------------------|
-| Vue 3      | 渐进式前端框架 / Progressive Framework |
-| TypeScript | 类型安全 / Static Typing              |
-| Vite       | 极速构建工具 / Fast Build Tool       |
-| Pinia      | 轻量状态管理 / State Management       |
-| Vue Router | 路由管理 / SPA Routing                |
+| 技术         | 说明 / Description                   |
+| ------------ | ----------------------------------- |
+| Vue 3        | 渐进式前端框架 / Progressive Framework |
+| TypeScript   | 类型安全 / Static Typing            |
+| Vite         | 极速构建工具 / Fast Build Tool     |
+| Pinia        | 轻量状态管理 / State Management     |
+| Vue Router   | 路由管理 / SPA Routing              |
 | Element Plus | 企业级组件库 / UI Component Library |
-| Axios      | 网络请求库 / HTTP Client              |
-| ECharts    | 图表展示 / Data Visualization         |
-| SCSS       | 样式增强 / CSS Preprocessor           |
+| Axios        | 网络请求库 / HTTP Client            |
+| ECharts      | 图表展示 / Data Visualization       |
+| SCSS         | 样式增强 / CSS Preprocessor         |
 
 ---
 
 ## ✨ 核心功能 Features
 
-- ✅ 登录 / 权限校验 Login & Permission Control
-- ✅ 菜单动态渲染 Dynamic Sidebar Menu
-- ✅ 用户 / 角色管理 User & Role Management
-- ✅ 品牌管理 / 商品分类 Brand & Category Management
-- ✅ SPU / SKU 商品管理 Product (SPU & SKU) CRUD
-- ✅ 表格分页 / 多选批量操作 Paginated Tables
-- ✅ 文件上传 / 图片预览 File Upload & Preview
-- ✅ 数据可视化 Dashboard & ECharts
-- ✅ 表单校验 / 动态表单 Validation & Dynamic Forms
-- ✅ 完整的模块化目录结构 Scalable Modular Architecture
+- ✅ 登录 / 权限校验 Login & Permission Control  
+- ✅ 菜单动态渲染 Dynamic Sidebar Menu  
+- ✅ 用户 / 角色管理 User & Role Management  
+- ✅ 品牌管理 / 商品分类 Brand & Category Management  
+- ✅ SPU / SKU 商品管理 Product (SPU & SKU) CRUD  
+- ✅ 表格分页 / 多选批量操作 Paginated Tables  
+- ✅ 文件上传 / 图片预览 File Upload & Preview  
+- ✅ 数据可视化 Dashboard & ECharts  
+- ✅ 表单校验 / 动态表单 Validation & Dynamic Forms  
+- ✅ 完整的模块化目录结构 Scalable Modular Architecture  
 
 ---
 
@@ -94,10 +94,8 @@ bash
 
 想了解中后台权限控制 / 表单设计 / 模块化架构的前端工程师
 
-📜 License
-MIT
 
-👨‍💻 项目作者 harderlun
-
+👨‍💻 项目作者
+harderlun
 
 欢迎 Star ⭐｜欢迎 PR ✨｜欢迎 Fork 🍴
