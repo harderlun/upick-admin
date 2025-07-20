@@ -1,9 +1,11 @@
 <template>
-  <div>hhh</div>
+  <div>
+    <router-view></router-view>
+  </div>
 </template>
 
-<script>
-export default {}
+<script setup lang="ts">
+import { onMounted } from 'vue'
 </script>
-
-<style></style>
+<style lang="scss" scoped>
+</style>
